@@ -5,7 +5,7 @@ import React from 'react'
 const ProfilePhoto = () => {
     return (
       <div>
-          <img src='https://images.unsplash.com/photo-1515463138280-67d1dcbf317f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHNwbGFzaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60' alt='picrestau'/>
+          <img src='https://images.unsplash.com/photo-1683731025863-470b20c3c90e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDc2fFM0TUtMQXNCQjc0fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60' alt='men'/>
       </div>
     
   )
